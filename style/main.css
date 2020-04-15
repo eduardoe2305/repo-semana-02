@@ -1,0 +1,36 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 74px;
+    color: #fff;
+    padding: 25px 0;
+}
+h2.nombre-titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 42px;
+    font-style: normal;
+    background-color: rgba(114, 153, 254, 0.5);
+    width: 350px;
+    border-radius: 10px;
+    color: #fff;
+    padding: 15px 30px;
+    margin-left: 260px;
+    margin-top: 280px;
+}
+.banner-principal {
+    height: 100vh;
+    background-image: url(/img/Mask\ Group.png);
+    background-position: center center;
+    background-repeat: none;
+    background-size: cover;
+}

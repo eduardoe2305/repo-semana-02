@@ -34,3 +34,26 @@ h2.nombre-titulo {
     background-repeat: none;
     background-size: cover;
 }
+.sobre-mi {
+    background-color: #7299FE;
+    padding: 80px 350px;
+}
+h2.titulo-2 {
+    margin: 0;
+    color: #fff;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+}
+p {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    padding: 10px 0 0 0;
+}

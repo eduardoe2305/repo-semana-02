@@ -29,7 +29,7 @@ h2.nombre-titulo {
 }
 .banner-principal {
     height: 100vh;
-    background-image: url(/img/banner-principal.png);
+    background-image: url(../img/banner-principal.png);
     background-position: center center;
     background-repeat: none;
     background-size: cover;
